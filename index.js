@@ -7,5 +7,5 @@ function relativeToAbsolute(input) {
   )
 }
 
-relativeToAbsolute([12,34,12])
+relativeToAbsolute([1,2,3,1])
 
