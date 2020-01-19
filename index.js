@@ -1,3 +1,5 @@
+Convert array of relative grwoth numbers to an array of absolute growth numbers
+
 function relativeToAbsolute(input) {
   return input.reduce(
     (arr, val)=> {
