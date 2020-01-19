@@ -1,4 +1,4 @@
-# reduce-less
+# When to use reduce less
 
 ### [Is reduce() bad? - HTTP 203](https://www.youtube.com/watch?v=qaGjS7-qWzg&t=412s)
 
